@@ -1,3 +1,3 @@
- def call(String name){
-     sh "echo ${name}"
+ def call(){
+     sh "echo Hello world"
  }
